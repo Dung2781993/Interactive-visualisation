@@ -1,0 +1,308 @@
+[
+ {
+ "State": [ "Alabama" ],
+"total heart attack": [    826 ],
+"total heart failure": [  615.4 ],
+"total pneumonia": [    636 ] 
+},
+{
+ "State": [ "Alaska" ],
+"total heart attack": [   76.8 ],
+"total heart failure": [   64.4 ],
+"total pneumonia": [     64 ] 
+},
+{
+ "State": [ "Arizona" ],
+"total heart attack": [  684.7 ],
+"total heart failure": [  490.5 ],
+"total pneumonia": [  507.3 ] 
+},
+{
+ "State": [ "Arkansas" ],
+"total heart attack": [  578.9 ],
+"total heart failure": [  446.7 ],
+"total pneumonia": [  448.6 ] 
+},
+{
+ "State": [ "California" ],
+"total heart attack": [ 3440.1 ],
+"total heart failure": [ 2502.8 ],
+"total pneumonia": [ 2632.4 ] 
+},
+{
+ "State": [ "Colorado" ],
+"total heart attack": [  482.7 ],
+"total heart failure": [  383.4 ],
+"total pneumonia": [  357.9 ] 
+},
+{
+ "State": [ "Connecticut" ],
+"total heart attack": [    425 ],
+"total heart failure": [  334.1 ],
+"total pneumonia": [  324.6 ] 
+},
+{
+ "State": [ "Delaware" ],
+"total heart attack": [   72.3 ],
+"total heart failure": [   52.3 ],
+"total pneumonia": [   58.2 ] 
+},
+{
+ "State": [ "District of Columbia" ],
+"total heart attack": [   75.1 ],
+"total heart failure": [   49.6 ],
+"total pneumonia": [   56.1 ] 
+},
+{
+ "State": [ "Florida" ],
+"total heart attack": [ 2429.5 ],
+"total heart failure": [ 1773.4 ],
+"total pneumonia": [   1867 ] 
+},
+{
+ "State": [ "Georgia" ],
+"total heart attack": [ 1223.2 ],
+"total heart failure": [  905.7 ],
+"total pneumonia": [  981.8 ] 
+},
+{
+ "State": [ "Hawaii" ],
+"total heart attack": [  170.7 ],
+"total heart failure": [  131.5 ],
+"total pneumonia": [  137.5 ] 
+},
+{
+ "State": [ "Idaho" ],
+"total heart attack": [  133.8 ],
+"total heart failure": [  116.5 ],
+"total pneumonia": [  115.1 ] 
+},
+{
+ "State": [ "Illinois" ],
+"total heart attack": [ 1847.2 ],
+"total heart failure": [ 1372.7 ],
+"total pneumonia": [ 1458.9 ] 
+},
+{
+ "State": [ "Indiana" ],
+"total heart attack": [ 1100.6 ],
+"total heart failure": [    859 ],
+"total pneumonia": [    855 ] 
+},
+{
+ "State": [ "Iowa" ],
+"total heart attack": [  533.2 ],
+"total heart failure": [  423.2 ],
+"total pneumonia": [  424.6 ] 
+},
+{
+ "State": [ "Kansas" ],
+"total heart attack": [  452.5 ],
+"total heart failure": [    345 ],
+"total pneumonia": [  357.2 ] 
+},
+{
+ "State": [ "Kentucky" ],
+"total heart attack": [  830.9 ],
+"total heart failure": [  610.9 ],
+"total pneumonia": [  647.6 ] 
+},
+{
+ "State": [ "Louisiana" ],
+"total heart attack": [  825.6 ],
+"total heart failure": [  596.4 ],
+"total pneumonia": [    641 ] 
+},
+{
+ "State": [ "Maine" ],
+"total heart attack": [    518 ],
+"total heart failure": [  387.3 ],
+"total pneumonia": [  387.7 ] 
+},
+{
+ "State": [ "Maryland" ],
+"total heart attack": [  623.5 ],
+"total heart failure": [  445.1 ],
+"total pneumonia": [  451.5 ] 
+},
+{
+ "State": [ "Massachusetts" ],
+"total heart attack": [    828 ],
+"total heart failure": [  602.2 ],
+"total pneumonia": [  617.2 ] 
+},
+{
+ "State": [ "Michigan" ],
+"total heart attack": [ 1262.3 ],
+"total heart failure": [  924.1 ],
+"total pneumonia": [  957.7 ] 
+},
+{
+ "State": [ "Minnesota" ],
+"total heart attack": [  594.8 ],
+"total heart failure": [  441.4 ],
+"total pneumonia": [  448.8 ] 
+},
+{
+ "State": [ "Mississippi" ],
+"total heart attack": [    611 ],
+"total heart failure": [  460.8 ],
+"total pneumonia": [  510.9 ] 
+},
+{
+ "State": [ "Missouri" ],
+"total heart attack": [  980.5 ],
+"total heart failure": [  736.8 ],
+"total pneumonia": [  764.4 ] 
+},
+{
+ "State": [ "Montana" ],
+"total heart attack": [  145.5 ],
+"total heart failure": [  124.2 ],
+"total pneumonia": [    116 ] 
+},
+{
+ "State": [ "Nebraska" ],
+"total heart attack": [  279.3 ],
+"total heart failure": [  229.7 ],
+"total pneumonia": [  224.7 ] 
+},
+{
+ "State": [ "Nevada" ],
+"total heart attack": [    300 ],
+"total heart failure": [  225.5 ],
+"total pneumonia": [  240.3 ] 
+},
+{
+ "State": [ "New Hampshire" ],
+"total heart attack": [  312.4 ],
+"total heart failure": [  244.4 ],
+"total pneumonia": [  254.2 ] 
+},
+{
+ "State": [ "New Jersey" ],
+"total heart attack": [    961 ],
+"total heart failure": [  686.5 ],
+"total pneumonia": [  726.2 ] 
+},
+{
+ "State": [ "New Mexico" ],
+"total heart attack": [  211.1 ],
+"total heart failure": [  158.3 ],
+"total pneumonia": [  166.2 ] 
+},
+{
+ "State": [ "New York" ],
+"total heart attack": [ 2263.1 ],
+"total heart failure": [ 1721.2 ],
+"total pneumonia": [ 1791.9 ] 
+},
+{
+ "State": [ "North Carolina" ],
+"total heart attack": [ 1279.5 ],
+"total heart failure": [  959.7 ],
+"total pneumonia": [   1045 ] 
+},
+{
+ "State": [ "North Dakota" ],
+"total heart attack": [  174.4 ],
+"total heart failure": [  132.9 ],
+"total pneumonia": [  131.4 ] 
+},
+{
+ "State": [ "Ohio" ],
+"total heart attack": [ 1763.3 ],
+"total heart failure": [ 1301.2 ],
+"total pneumonia": [ 1312.5 ] 
+},
+{
+ "State": [ "Oklahoma" ],
+"total heart attack": [  627.3 ],
+"total heart failure": [  482.5 ],
+"total pneumonia": [  512.3 ] 
+},
+{
+ "State": [ "Oregon" ],
+"total heart attack": [  545.9 ],
+"total heart failure": [  434.4 ],
+"total pneumonia": [  413.2 ] 
+},
+{
+ "State": [ "Pennsylvania" ],
+"total heart attack": [ 2055.7 ],
+"total heart failure": [ 1500.5 ],
+"total pneumonia": [   1601 ] 
+},
+{
+ "State": [ "Rhode Island" ],
+"total heart attack": [  164.4 ],
+"total heart failure": [  133.2 ],
+"total pneumonia": [  138.8 ] 
+},
+{
+ "State": [ "South Carolina" ],
+"total heart attack": [  658.5 ],
+"total heart failure": [  504.6 ],
+"total pneumonia": [  530.8 ] 
+},
+{
+ "State": [ "South Dakota" ],
+"total heart attack": [  178.3 ],
+"total heart failure": [    137 ],
+"total pneumonia": [  147.2 ] 
+},
+{
+ "State": [ "Tennessee" ],
+"total heart attack": [ 1088.2 ],
+"total heart failure": [  838.3 ],
+"total pneumonia": [  883.4 ] 
+},
+{
+ "State": [ "Texas" ],
+"total heart attack": [ 3060.7 ],
+"total heart failure": [ 2194.7 ],
+"total pneumonia": [   2294 ] 
+},
+{
+ "State": [ "Utah" ],
+"total heart attack": [  239.5 ],
+"total heart failure": [    203 ],
+"total pneumonia": [    200 ] 
+},
+{
+ "State": [ "Vermont" ],
+"total heart attack": [  195.2 ],
+"total heart failure": [  156.5 ],
+"total pneumonia": [    143 ] 
+},
+{
+ "State": [ "Virginia" ],
+"total heart attack": [ 1132.7 ],
+"total heart failure": [  847.3 ],
+"total pneumonia": [    894 ] 
+},
+{
+ "State": [ "Washington" ],
+"total heart attack": [  694.5 ],
+"total heart failure": [  549.5 ],
+"total pneumonia": [    532 ] 
+},
+{
+ "State": [ "West Virginia" ],
+"total heart attack": [  520.3 ],
+"total heart failure": [  380.6 ],
+"total pneumonia": [  408.9 ] 
+},
+{
+ "State": [ "Wisconsin" ],
+"total heart attack": [    913 ],
+"total heart failure": [  700.5 ],
+"total pneumonia": [  696.5 ] 
+},
+{
+ "State": [ "Wyoming" ],
+"total heart attack": [   48.5 ],
+"total heart failure": [     40 ],
+"total pneumonia": [   35.6 ] 
+} 
+]

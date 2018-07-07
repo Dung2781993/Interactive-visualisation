@@ -1,0 +1,34 @@
+[
+ {
+ "onwer": [ "Government - Federal" ],
+"values": [ 1139.3 ] 
+},
+{
+ "onwer": [ "Government - Hospital District or Authority" ],
+"values": [ 2764.3 ] 
+},
+{
+ "onwer": [ "Government - Local" ],
+"values": [ 1912.6 ] 
+},
+{
+ "onwer": [ "Government - State" ],
+"values": [    402 ] 
+},
+{
+ "onwer": [ "Proprietary" ],
+"values": [ 6375.9 ] 
+},
+{
+ "onwer": [ "Voluntary non-profit - Church" ],
+"values": [ 6220.4 ] 
+},
+{
+ "onwer": [ "Voluntary non-profit - Other" ],
+"values": [ 5203.8 ] 
+},
+{
+ "onwer": [ "Voluntary non-profit - Private" ],
+"values": [  13238 ] 
+} 
+]

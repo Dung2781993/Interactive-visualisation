@@ -1,0 +1,871 @@
+{
+ "children": [
+ {
+ "name": "Alabama",
+"children": [
+ {
+ "name": "DEKALB REGIONAL MEDICAL CENTER",
+"hospital":   16.6 
+},
+{
+ "name": "MARSHALL MEDICAL CENTER SOUTH",
+"hospital":   15.2 
+},
+{
+ "name": "SOUTH BALDWIN REGIONAL MEDICAL CENTER",
+"hospital":   15.1 
+} 
+] 
+},
+{
+ "name": "Alaska",
+"children": [
+ {
+ "name": "FAIRBANKS MEMORIAL HOSPITAL",
+"hospital":   15.6 
+},
+{
+ "name": "ALASKA REGIONAL HOSPITAL",
+"hospital":   13.4 
+},
+{
+ "name": "PROVIDENCE ALASKA MEDICAL CENTER",
+"hospital":   12.4 
+} 
+] 
+},
+{
+ "name": "Arizona",
+"children": [
+ {
+ "name": "PARADISE VALLEY HOSPITAL",
+"hospital":   13.9 
+},
+{
+ "name": "PARADISE VALLEY HOSPITAL",
+"hospital":   13.9 
+},
+{
+ "name": "YUMA REGIONAL MEDICAL CENTER",
+"hospital":   13.5 
+} 
+] 
+},
+{
+ "name": "Arkansas",
+"children": [
+ {
+ "name": "NEA BAPTIST MEMORIAL HOSPITAL",
+"hospital":   17.2 
+},
+{
+ "name": "CONWAY REGIONAL MEDICAL CENTER",
+"hospital":   15.6 
+},
+{
+ "name": "BAXTER REGIONAL MEDICAL CENTER",
+"hospital":   14.7 
+} 
+] 
+},
+{
+ "name": "California",
+"children": [
+ {
+ "name": "CLOVIS COMMUNITY MEDICAL CENTER",
+"hospital":   15.9 
+},
+{
+ "name": "RIDEOUT MEMORIAL HOSPITAL",
+"hospital":   15.8 
+},
+{
+ "name": "SUTTER AMADOR HOSPITAL",
+"hospital":   15.8 
+} 
+] 
+},
+{
+ "name": "Colorado",
+"children": [
+ {
+ "name": "EXEMPLA GOOD SAMARITAN MEDICAL CENTER LLC",
+"hospital":   15.1 
+},
+{
+ "name": "MONTROSE MEMORIAL HOSPITAL",
+"hospital":   14.2 
+},
+{
+ "name": "NORTH COLORADO MEDICAL CENTER",
+"hospital":   13.7 
+} 
+] 
+},
+{
+ "name": "Connecticut",
+"children": [
+ {
+ "name": "MANCHESTER MEMORIAL HOSPITAL",
+"hospital":     16 
+},
+{
+ "name": "NEW MILFORD HOSPITAL",
+"hospital":   15.6 
+},
+{
+ "name": "LAWRENCE & MEMORIAL HOSPITAL",
+"hospital":   13.3 
+} 
+] 
+},
+{
+ "name": "Delaware",
+"children": [
+ {
+ "name": "BEEBE MEDICAL CENTER",
+"hospital":   11.7 
+},
+{
+ "name": "CHRISTIANA CARE HEALTH SERVICES, INC.",
+"hospital":   11.4 
+},
+{
+ "name": "ST FRANCIS HEALTHCARE",
+"hospital":    9.9 
+} 
+] 
+},
+{
+ "name": "District of Columbia",
+"children": [
+ {
+ "name": "GEORGE WASHINGTON UNIV HOSPITAL",
+"hospital":   11.7 
+},
+{
+ "name": "SIBLEY MEMORIAL HOSPITAL",
+"hospital":   10.7 
+},
+{
+ "name": "WASHINGTON HOSPITAL CENTER",
+"hospital":    9.2 
+} 
+] 
+},
+{
+ "name": "Florida",
+"children": [
+ {
+ "name": "MANATEE MEMORIAL HOSPITAL",
+"hospital":   15.6 
+},
+{
+ "name": "ST LUCIE MEDICAL CENTER",
+"hospital":   14.1 
+},
+{
+ "name": "PUTNAM COMMUNITY MEDICAL CENTER",
+"hospital":     14 
+} 
+] 
+},
+{
+ "name": "Georgia",
+"children": [
+ {
+ "name": "COFFEE REGIONAL MEDICAL CENTER",
+"hospital":   15.7 
+},
+{
+ "name": "UNION GENERAL HOSPITAL",
+"hospital":   15.5 
+},
+{
+ "name": "UNION GENERAL HOSPITAL",
+"hospital":   15.5 
+} 
+] 
+},
+{
+ "name": "Hawaii",
+"children": [
+ {
+ "name": "MAUI MEMORIAL MEDICAL CENTER",
+"hospital":   15.1 
+},
+{
+ "name": "WILCOX MEMORIAL HOSPITAL",
+"hospital":   13.3 
+},
+{
+ "name": "WAHIAWA GENERAL HOSPITAL",
+"hospital":   12.3 
+} 
+] 
+},
+{
+ "name": "Idaho",
+"children": [
+ {
+ "name": "KOOTENAI MEDICAL CENTER",
+"hospital":   17.5 
+},
+{
+ "name": "EASTERN IDAHO REGIONAL MEDICAL CENTER",
+"hospital":   14.7 
+},
+{
+ "name": "WEST VALLEY MEDICAL CENTER",
+"hospital":   13.9 
+} 
+] 
+},
+{
+ "name": "Illinois",
+"children": [
+ {
+ "name": "ST JOSEPH MEDICAL CENTER",
+"hospital":   15.4 
+},
+{
+ "name": "ST JOSEPH MEDICAL CENTER",
+"hospital":   15.4 
+},
+{
+ "name": "ST JOSEPH MEDICAL CENTER",
+"hospital":   15.4 
+} 
+] 
+},
+{
+ "name": "Indiana",
+"children": [
+ {
+ "name": "INDIANA UNIVERSITY HEALTH LA PORTE HOSPITAL",
+"hospital":   16.3 
+},
+{
+ "name": "FRANCISCAN ST FRANCIS HEALTH - BEECH GROVE",
+"hospital":   16.2 
+},
+{
+ "name": "COMMUNITY HOSPITAL EAST",
+"hospital":   15.3 
+} 
+] 
+},
+{
+ "name": "Iowa",
+"children": [
+ {
+ "name": "BOONE COUNTY HOSPITAL",
+"hospital":   16.4 
+},
+{
+ "name": "GREATER REGIONAL MEDICAL CENTER",
+"hospital":   14.1 
+},
+{
+ "name": "GRINNELL REGIONAL MEDICAL CENTER",
+"hospital":   13.7 
+} 
+] 
+},
+{
+ "name": "Kansas",
+"children": [
+ {
+ "name": "ST CATHERINE HOSPITAL",
+"hospital":   14.7 
+},
+{
+ "name": "WESTERN PLAINS MEDICAL COMPLEX",
+"hospital":   14.4 
+},
+{
+ "name": "SHAWNEE MISSION MEDICAL CENTER",
+"hospital":   14.3 
+} 
+] 
+},
+{
+ "name": "Kentucky",
+"children": [
+ {
+ "name": "MIDDLESBORO APPALACHIAN REGIONAL HEALTHCARE HOSPIT",
+"hospital":     16 
+},
+{
+ "name": "LAKE CUMBERLAND REGIONAL HOSPITAL",
+"hospital":   15.9 
+},
+{
+ "name": "PATTIE A CLAY REGIONAL MEDICAL CENTER",
+"hospital":   14.6 
+} 
+] 
+},
+{
+ "name": "Louisiana",
+"children": [
+ {
+ "name": "OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER",
+"hospital":   15.6 
+},
+{
+ "name": "IBERIA GENERAL HOSPITAL AND MEDICAL CENTER",
+"hospital":   15.3 
+},
+{
+ "name": "THIBODAUX REGIONAL MEDICAL CENTER",
+"hospital":   15.2 
+} 
+] 
+},
+{
+ "name": "Maine",
+"children": [
+ {
+ "name": "SEBASTICOOK VALLEY HOSPITAL (HEALTH)",
+"hospital":   14.2 
+},
+{
+ "name": "CENTRAL MAINE MEDICAL CENTER",
+"hospital":   13.8 
+},
+{
+ "name": "RUMFORD  HOSPITAL",
+"hospital":   13.7 
+} 
+] 
+},
+{
+ "name": "Maryland",
+"children": [
+ {
+ "name": "GARRETT COUNTY MEMORIAL HOSPITAL",
+"hospital":     14 
+},
+{
+ "name": "ANNE ARUNDEL MEDICAL CENTER",
+"hospital":     14 
+},
+{
+ "name": "CARROLL HOSPITAL CENTER",
+"hospital":   13.5 
+} 
+] 
+},
+{
+ "name": "Massachusetts",
+"children": [
+ {
+ "name": "EMERSON HOSPITAL",
+"hospital":   14.3 
+},
+{
+ "name": "BAYSTATE FRANKLIN MEDICAL CENTER",
+"hospital":   13.8 
+},
+{
+ "name": "COOLEY DICKINSON HOSPITAL INC,THE",
+"hospital":   12.6 
+} 
+] 
+},
+{
+ "name": "Michigan",
+"children": [
+ {
+ "name": "MEMORIAL HEALTHCARE",
+"hospital":   15.4 
+},
+{
+ "name": "COMMUNITY HEALTH CENTER OF BRANCH COUNTY",
+"hospital":   14.8 
+},
+{
+ "name": "BORGESS MEDICAL CENTER",
+"hospital":   14.7 
+} 
+] 
+},
+{
+ "name": "Minnesota",
+"children": [
+ {
+ "name": "MAYO CLINIC HEALTH SYSTEM - MANKATO",
+"hospital":   14.9 
+},
+{
+ "name": "GRAND ITASCA CLINIC AND HOSPITAL",
+"hospital":     14 
+},
+{
+ "name": "FAIRVIEW RED WING HOSPITAL",
+"hospital":   13.7 
+} 
+] 
+},
+{
+ "name": "Mississippi",
+"children": [
+ {
+ "name": "NORTH MISSISSIPPI MEDICAL CENTER",
+"hospital":   15.4 
+},
+{
+ "name": "BOLIVAR MEDICAL CENTER",
+"hospital":   14.8 
+},
+{
+ "name": "MONTFORT JONES MEMORIAL HOSPITAL",
+"hospital":   14.5 
+} 
+] 
+},
+{
+ "name": "Missouri",
+"children": [
+ {
+ "name": "CITIZENS MEMORIAL HOSPITAL",
+"hospital":   15.1 
+},
+{
+ "name": "POPLAR BLUFF REGIONAL MEDICAL CENTER",
+"hospital":   14.9 
+},
+{
+ "name": "MERCY HOSPITAL SPRINGFIELD",
+"hospital":   14.9 
+} 
+] 
+},
+{
+ "name": "Montana",
+"children": [
+ {
+ "name": "ST PETER'S HOSPITAL",
+"hospital":   14.8 
+},
+{
+ "name": "ST PETER'S HOSPITAL",
+"hospital":   14.8 
+},
+{
+ "name": "ST PATRICK HOSPITAL",
+"hospital":   13.5 
+} 
+] 
+},
+{
+ "name": "Nebraska",
+"children": [
+ {
+ "name": "ALEGENT HEALTH IMMANUEL MEDICAL CENTER",
+"hospital":   15.8 
+},
+{
+ "name": "MARY LANNING MEMORIAL HOSPITAL",
+"hospital":   14.8 
+},
+{
+ "name": "FAITH REGIONAL HEALTH SERVICES",
+"hospital":   14.3 
+} 
+] 
+},
+{
+ "name": "Nevada",
+"children": [
+ {
+ "name": "CARSON TAHOE REGIONAL MEDICAL CENTER",
+"hospital":   14.7 
+},
+{
+ "name": "SAINT MARY'S REGIONAL MEDICAL CENTER",
+"hospital":   14.7 
+},
+{
+ "name": "RENOWN REGIONAL MEDICAL CENTER",
+"hospital":   13.8 
+} 
+] 
+},
+{
+ "name": "New Hampshire",
+"children": [
+ {
+ "name": "FRANKLIN REGIONAL HOSPITAL",
+"hospital":   16.1 
+},
+{
+ "name": "HUGGINS HOSPITAL",
+"hospital":   14.3 
+},
+{
+ "name": "LAKES REGION GENERAL HOSPITAL",
+"hospital":   14.2 
+} 
+] 
+},
+{
+ "name": "New Jersey",
+"children": [
+ {
+ "name": "SOMERSET MEDICAL CENTER",
+"hospital":     14 
+},
+{
+ "name": "VIRTUA MEMORIAL HOSPITAL OF BURLINGTON COUNTY",
+"hospital":   13.5 
+},
+{
+ "name": "JFK MEDICAL CTR - ANTHONY M. YELENCSICS COMMUNITY",
+"hospital":   13.4 
+} 
+] 
+},
+{
+ "name": "New Mexico",
+"children": [
+ {
+ "name": "SAN JUAN REGIONAL MEDICAL CENTER",
+"hospital":   15.6 
+},
+{
+ "name": "MOUNTAIN VIEW REGIONAL MEDICAL CENTER",
+"hospital":     15 
+},
+{
+ "name": "MOUNTAIN VIEW REGIONAL MEDICAL CENTER",
+"hospital":     15 
+} 
+] 
+},
+{
+ "name": "New York",
+"children": [
+ {
+ "name": "CAYUGA MEDICAL CENTER AT ITHACA",
+"hospital":   15.6 
+},
+{
+ "name": "UNITED HEALTH SERVICES HOSPITALS, INC",
+"hospital":   15.5 
+},
+{
+ "name": "ALBANY MEMORIAL HOSPITAL",
+"hospital":   15.4 
+} 
+] 
+},
+{
+ "name": "North Carolina",
+"children": [
+ {
+ "name": "THE MCDOWELL HOSPITAL",
+"hospital":   15.6 
+},
+{
+ "name": "ALAMANCE REGIONAL MEDICAL CENTER",
+"hospital":   14.6 
+},
+{
+ "name": "CAROLINAS MED CTR-UNIVERSITY",
+"hospital":   14.6 
+} 
+] 
+},
+{
+ "name": "North Dakota",
+"children": [
+ {
+ "name": "OAKES COMMUNITY HOSPITAL",
+"hospital":   13.3 
+},
+{
+ "name": "TRINITY HOSPITALS",
+"hospital":   13.3 
+},
+{
+ "name": "JAMESTOWN REGIONAL MEDICAL CENTER",
+"hospital":   13.2 
+} 
+] 
+},
+{
+ "name": "Ohio",
+"children": [
+ {
+ "name": "KNOX COMMUNITY HOSPITAL",
+"hospital":   15.2 
+},
+{
+ "name": "HOLZER MEDICAL CENTER JACKSON",
+"hospital":   15.1 
+},
+{
+ "name": "ST RITA'S MEDICAL CENTER",
+"hospital":   14.7 
+} 
+] 
+},
+{
+ "name": "Oklahoma",
+"children": [
+ {
+ "name": "INTEGRIS GROVE HOSPITAL",
+"hospital":   16.2 
+},
+{
+ "name": "JANE PHILLIPS MEDICAL CENTER",
+"hospital":   15.4 
+},
+{
+ "name": "OKLAHOMA STATE UNIVERSITY MEDICAL CENTER",
+"hospital":     14 
+} 
+] 
+},
+{
+ "name": "Oregon",
+"children": [
+ {
+ "name": "ADVENTIST MEDICAL CENTER",
+"hospital":   18.1 
+},
+{
+ "name": "ADVENTIST MEDICAL CENTER",
+"hospital":   18.1 
+},
+{
+ "name": "PROVIDENCE WILLAMETTE FALLS MEDICAL CENTER",
+"hospital":   15.4 
+} 
+] 
+},
+{
+ "name": "Pennsylvania",
+"children": [
+ {
+ "name": "SUNBURY COMMUNITY HOSPITAL",
+"hospital":   16.5 
+},
+{
+ "name": "CLARION HOSPITAL",
+"hospital":     16 
+},
+{
+ "name": "BERWICK HOSPITAL CENTER",
+"hospital":   15.9 
+} 
+] 
+},
+{
+ "name": "Rhode Island",
+"children": [
+ {
+ "name": "SOUTH COUNTY HOSPITAL INC",
+"hospital":   15.6 
+},
+{
+ "name": "NEWPORT HOSPITAL",
+"hospital":   13.7 
+},
+{
+ "name": "LANDMARK MEDICAL CENTER,  INC",
+"hospital":   12.9 
+} 
+] 
+},
+{
+ "name": "South Carolina",
+"children": [
+ {
+ "name": "AIKEN REGIONAL MEDICAL CENTER",
+"hospital":   15.6 
+},
+{
+ "name": "PIEDMONT MEDICAL CENTER",
+"hospital":   15.2 
+},
+{
+ "name": "BAPTIST EASLEY HOSPITAL",
+"hospital":   15.2 
+} 
+] 
+},
+{
+ "name": "South Dakota",
+"children": [
+ {
+ "name": "HURON REGIONAL MEDICAL CENTER",
+"hospital":   12.4 
+},
+{
+ "name": "ST MARYS HOSPITAL",
+"hospital":   12.2 
+},
+{
+ "name": "ST MARYS HOSPITAL",
+"hospital":   12.2 
+} 
+] 
+},
+{
+ "name": "Tennessee",
+"children": [
+ {
+ "name": "ATHENS REGIONAL MEDICAL CENTER",
+"hospital":   17.4 
+},
+{
+ "name": "ATHENS REGIONAL MEDICAL CENTER",
+"hospital":   17.4 
+},
+{
+ "name": "LIVINGSTON REGIONAL HOSPITAL",
+"hospital":   15.8 
+} 
+] 
+},
+{
+ "name": "Texas",
+"children": [
+ {
+ "name": "ETMC CARTHAGE",
+"hospital":   15.8 
+},
+{
+ "name": "LAKE GRANBURY MEDICAL CENTER",
+"hospital":   15.7 
+},
+{
+ "name": "ST JOSEPH REGIONAL HEALTH CENTER",
+"hospital":   15.6 
+} 
+] 
+},
+{
+ "name": "Utah",
+"children": [
+ {
+ "name": "UTAH VALLEY REGIONAL MEDICAL CENTER",
+"hospital":   14.6 
+},
+{
+ "name": "JORDAN VALLEY MEDICAL CENTER",
+"hospital":   14.5 
+},
+{
+ "name": "OGDEN REGIONAL MEDICAL CENTER",
+"hospital":   13.7 
+} 
+] 
+},
+{
+ "name": "Vermont",
+"children": [
+ {
+ "name": "FLETCHER ALLEN HOSPITAL OF VERMONT",
+"hospital":   16.2 
+},
+{
+ "name": "BRATTLEBORO MEMORIAL HOSPITAL",
+"hospital":   15.3 
+},
+{
+ "name": "NORTHWESTERN MEDICAL CENTER INC",
+"hospital":   14.5 
+} 
+] 
+},
+{
+ "name": "Virginia",
+"children": [
+ {
+ "name": "MEMORIAL HOSPITAL OF MARTINSVILLE & HENRY COUNTY",
+"hospital":   15.1 
+},
+{
+ "name": "TWIN COUNTY REGIONAL HOSPITAL",
+"hospital":   14.1 
+},
+{
+ "name": "CARILION TAZEWELL COMMUNITY HOSPITAL",
+"hospital":   14.1 
+} 
+] 
+},
+{
+ "name": "Washington",
+"children": [
+ {
+ "name": "VALLEY HOSPITAL",
+"hospital":   14.9 
+},
+{
+ "name": "VALLEY HOSPITAL",
+"hospital":   14.9 
+},
+{
+ "name": "OLYMPIC MEDICAL CENTER",
+"hospital":   14.6 
+} 
+] 
+},
+{
+ "name": "West Virginia",
+"children": [
+ {
+ "name": "OHIO VALLEY MEDICAL CENTER",
+"hospital":   14.3 
+},
+{
+ "name": "UNITED HOSPITAL CENTER",
+"hospital":   13.6 
+},
+{
+ "name": "ST MARY'S MEDICAL CENTER",
+"hospital":   13.4 
+} 
+] 
+},
+{
+ "name": "Wisconsin",
+"children": [
+ {
+ "name": "ST NICHOLAS HOSPITAL",
+"hospital":   15.1 
+},
+{
+ "name": "RIVERSIDE MEDICAL CENTER",
+"hospital":     15 
+},
+{
+ "name": "RIVERSIDE MEDICAL CENTER",
+"hospital":     15 
+} 
+] 
+},
+{
+ "name": "Wyoming",
+"children": [
+ {
+ "name": "WYOMING MEDICAL CENTER",
+"hospital":   14.3 
+},
+{
+ "name": "SHERIDAN MEMORIAL HOSPITAL",
+"hospital":   13.8 
+},
+{
+ "name": "CHEYENNE REGIONAL MEDICAL CENTER",
+"hospital":   11.9 
+} 
+] 
+} 
+] 
+}

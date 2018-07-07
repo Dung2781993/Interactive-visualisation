@@ -1,0 +1,1539 @@
+{
+ "children": [
+ {
+ "name": "Alabama",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":     18 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     14 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      9 
+} 
+] 
+},
+{
+ "name": "Alaska",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      2 
+} 
+] 
+},
+{
+ "name": "Arizona",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"count":      2 
+},
+{
+ "name": "Proprietary",
+"count":     18 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     19 
+} 
+] 
+},
+{
+ "name": "Arkansas",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      2 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      2 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      8 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      7 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     19 
+} 
+] 
+},
+{
+ "name": "California",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":     10 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":     26 
+},
+{
+ "name": "Government - Local",
+"count":     12 
+},
+{
+ "name": "Government - State",
+"count":      2 
+},
+{
+ "name": "Proprietary",
+"count":     59 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     69 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     48 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     51 
+} 
+] 
+},
+{
+ "name": "Colorado",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      2 
+},
+{
+ "name": "Government - Local",
+"count":      2 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      8 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     16 
+} 
+] 
+},
+{
+ "name": "Connecticut",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      2 
+},
+{
+ "name": "Proprietary",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      3 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     19 
+} 
+] 
+},
+{
+ "name": "Delaware",
+"children": [
+ {
+ "name": "Voluntary non-profit - Other",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      4 
+} 
+] 
+},
+{
+ "name": "District of Columbia",
+"children": [
+ {
+ "name": "Voluntary non-profit - Church",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      4 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      1 
+} 
+] 
+},
+{
+ "name": "Florida",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      5 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":     21 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     72 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     16 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      9 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     54 
+} 
+] 
+},
+{
+ "name": "Georgia",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      3 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":     25 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     20 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      4 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     13 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     24 
+} 
+] 
+},
+{
+ "name": "Hawaii",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - State",
+"count":      2 
+},
+{
+ "name": "Proprietary",
+"count":      4 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      3 
+} 
+] 
+},
+{
+ "name": "Idaho",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      3 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      4 
+} 
+] 
+},
+{
+ "name": "Illinois",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      5 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      6 
+},
+{
+ "name": "Government - Local",
+"count":      8 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     60 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     26 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     54 
+} 
+] 
+},
+{
+ "name": "Indiana",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":     19 
+},
+{
+ "name": "Proprietary",
+"count":     13 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     19 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      9 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     32 
+} 
+] 
+},
+{
+ "name": "Iowa",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      6 
+},
+{
+ "name": "Government - State",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     11 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      7 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     22 
+} 
+] 
+},
+{
+ "name": "Kansas",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      2 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      6 
+},
+{
+ "name": "Proprietary",
+"count":      7 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      4 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      7 
+} 
+] 
+},
+{
+ "name": "Kentucky",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      3 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      6 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     11 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     24 
+} 
+] 
+},
+{
+ "name": "Louisiana",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":     12 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Government - State",
+"count":      3 
+},
+{
+ "name": "Proprietary",
+"count":     11 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     14 
+} 
+] 
+},
+{
+ "name": "Maine",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"count":      2 
+},
+{
+ "name": "Government - Local",
+"count":      2 
+},
+{
+ "name": "Proprietary",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     27 
+} 
+] 
+},
+{
+ "name": "Maryland",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      8 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     26 
+} 
+] 
+},
+{
+ "name": "Massachusetts",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      3 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      3 
+},
+{
+ "name": "Proprietary",
+"count":     14 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      9 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     32 
+} 
+] 
+},
+{
+ "name": "Michigan",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      4 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      4 
+},
+{
+ "name": "Government - Local",
+"count":      5 
+},
+{
+ "name": "Proprietary",
+"count":     11 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     14 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     23 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     27 
+} 
+] 
+},
+{
+ "name": "Minnesota",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      3 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     16 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     29 
+} 
+] 
+},
+{
+ "name": "Mississippi",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":     14 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     12 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      4 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      8 
+} 
+] 
+},
+{
+ "name": "Missouri",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      4 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      5 
+},
+{
+ "name": "Government - Local",
+"count":      3 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     12 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     16 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     28 
+} 
+] 
+},
+{
+ "name": "Montana",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      3 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      7 
+} 
+] 
+},
+{
+ "name": "Nebraska",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      3 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      8 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      7 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     10 
+} 
+] 
+},
+{
+ "name": "Nevada",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      8 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      6 
+} 
+] 
+},
+{
+ "name": "New Hampshire",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      4 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      4 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      3 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     14 
+} 
+] 
+},
+{
+ "name": "New Jersey",
+"children": [
+ {
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     11 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     49 
+} 
+] 
+},
+{
+ "name": "New Mexico",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      2 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      6 
+} 
+] 
+},
+{
+ "name": "New York",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      5 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      5 
+},
+{
+ "name": "Government - Local",
+"count":     15 
+},
+{
+ "name": "Government - State",
+"count":      4 
+},
+{
+ "name": "Proprietary",
+"count":      7 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     32 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     20 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     91 
+} 
+] 
+},
+{
+ "name": "North Carolina",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      2 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":     18 
+},
+{
+ "name": "Government - Local",
+"count":     12 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     40 
+} 
+] 
+},
+{
+ "name": "North Dakota",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      2 
+},
+{
+ "name": "Proprietary",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      7 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      7 
+} 
+] 
+},
+{
+ "name": "Ohio",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      4 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      7 
+},
+{
+ "name": "Government - Local",
+"count":      6 
+},
+{
+ "name": "Government - State",
+"count":      2 
+},
+{
+ "name": "Proprietary",
+"count":     16 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     32 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     33 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     57 
+} 
+] 
+},
+{
+ "name": "Oklahoma",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      2 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      5 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     13 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      9 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      8 
+} 
+] 
+},
+{
+ "name": "Oregon",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      3 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     16 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     15 
+} 
+] 
+},
+{
+ "name": "Pennsylvania",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      5 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     19 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     18 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     50 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     67 
+} 
+] 
+},
+{
+ "name": "Rhode Island",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      8 
+} 
+] 
+},
+{
+ "name": "South Carolina",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      2 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      4 
+},
+{
+ "name": "Government - Local",
+"count":      4 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      3 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     17 
+} 
+] 
+},
+{
+ "name": "South Dakota",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      8 
+} 
+] 
+},
+{
+ "name": "Tennessee",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      3 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      7 
+},
+{
+ "name": "Government - Local",
+"count":      7 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     29 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     10 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     17 
+} 
+] 
+},
+{
+ "name": "Texas",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      9 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":     31 
+},
+{
+ "name": "Government - Local",
+"count":      5 
+},
+{
+ "name": "Government - State",
+"count":      4 
+},
+{
+ "name": "Proprietary",
+"count":     74 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     35 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     16 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     45 
+} 
+] 
+},
+{
+ "name": "Utah",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      1 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      9 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      6 
+} 
+] 
+},
+{
+ "name": "Vermont",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      4 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":      6 
+} 
+] 
+},
+{
+ "name": "Virginia",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      2 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      3 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":     16 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":     20 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     26 
+} 
+] 
+},
+{
+ "name": "Washington",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      2 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      6 
+},
+{
+ "name": "Government - Local",
+"count":      2 
+},
+{
+ "name": "Government - State",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      3 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     14 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     20 
+} 
+] 
+},
+{
+ "name": "West Virginia",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      3 
+},
+{
+ "name": "Government - Local",
+"count":      3 
+},
+{
+ "name": "Proprietary",
+"count":      8 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":      6 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     19 
+} 
+] 
+},
+{
+ "name": "Wisconsin",
+"children": [
+ {
+ "name": "Government - Federal",
+"count":      2 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Government - Local",
+"count":      1 
+},
+{
+ "name": "Proprietary",
+"count":      2 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"count":     14 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      5 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"count":     36 
+} 
+] 
+},
+{
+ "name": "Wyoming",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"count":      1 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"count":      2 
+} 
+] 
+} 
+] 
+}

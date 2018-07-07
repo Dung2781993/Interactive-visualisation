@@ -1,0 +1,1539 @@
+{
+ "children": [
+ {
+ "name": "Alabama",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   1.82 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":  32.73 
+},
+{
+ "name": "Government - Local",
+"percent":   1.82 
+},
+{
+ "name": "Government - State",
+"percent":   1.82 
+},
+{
+ "name": "Proprietary",
+"percent":  25.45 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":   9.09 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  10.91 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  16.36 
+} 
+] 
+},
+{
+ "name": "Alaska",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":     20 
+},
+{
+ "name": "Proprietary",
+"percent":     20 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":     20 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":     40 
+} 
+] 
+},
+{
+ "name": "Arizona",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"percent":      4 
+},
+{
+ "name": "Proprietary",
+"percent":     36 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":     10 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":     12 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":     38 
+} 
+] 
+},
+{
+ "name": "Arkansas",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   4.44 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   2.22 
+},
+{
+ "name": "Government - Local",
+"percent":   4.44 
+},
+{
+ "name": "Government - State",
+"percent":   2.22 
+},
+{
+ "name": "Proprietary",
+"percent":  17.78 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  15.56 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  11.11 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  42.22 
+} 
+] 
+},
+{
+ "name": "California",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   3.61 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   9.39 
+},
+{
+ "name": "Government - Local",
+"percent":   4.33 
+},
+{
+ "name": "Government - State",
+"percent":   0.72 
+},
+{
+ "name": "Proprietary",
+"percent":   21.3 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  24.91 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  17.33 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  18.41 
+} 
+] 
+},
+{
+ "name": "Colorado",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.78 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   5.56 
+},
+{
+ "name": "Government - Local",
+"percent":   5.56 
+},
+{
+ "name": "Government - State",
+"percent":   2.78 
+},
+{
+ "name": "Proprietary",
+"percent":  13.89 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  22.22 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   2.78 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  44.44 
+} 
+] 
+},
+{
+ "name": "Connecticut",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"percent":   3.12 
+},
+{
+ "name": "Government - Local",
+"percent":   6.25 
+},
+{
+ "name": "Proprietary",
+"percent":   3.12 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":   9.38 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  18.75 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  59.38 
+} 
+] 
+},
+{
+ "name": "Delaware",
+"children": [
+ {
+ "name": "Voluntary non-profit - Other",
+"percent":     20 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":     80 
+} 
+] 
+},
+{
+ "name": "District of Columbia",
+"children": [
+ {
+ "name": "Voluntary non-profit - Church",
+"percent":  16.67 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  66.67 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  16.67 
+} 
+] 
+},
+{
+ "name": "Florida",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.81 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   11.8 
+},
+{
+ "name": "Government - State",
+"percent":   0.56 
+},
+{
+ "name": "Proprietary",
+"percent":  40.45 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":   8.99 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   5.06 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  30.34 
+} 
+] 
+},
+{
+ "name": "Georgia",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   3.33 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":  27.78 
+},
+{
+ "name": "Government - Local",
+"percent":   1.11 
+},
+{
+ "name": "Proprietary",
+"percent":  22.22 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":   4.44 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  14.44 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  26.67 
+} 
+] 
+},
+{
+ "name": "Hawaii",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   9.09 
+},
+{
+ "name": "Government - State",
+"percent":  18.18 
+},
+{
+ "name": "Proprietary",
+"percent":  36.36 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":   9.09 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  27.27 
+} 
+] 
+},
+{
+ "name": "Idaho",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"percent":     10 
+},
+{
+ "name": "Proprietary",
+"percent":     30 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":     20 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":     40 
+} 
+] 
+},
+{
+ "name": "Illinois",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.94 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   3.53 
+},
+{
+ "name": "Government - Local",
+"percent":   4.71 
+},
+{
+ "name": "Government - State",
+"percent":   0.59 
+},
+{
+ "name": "Proprietary",
+"percent":   5.88 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  35.29 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  15.29 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  31.76 
+} 
+] 
+},
+{
+ "name": "Indiana",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   1.06 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   1.06 
+},
+{
+ "name": "Government - Local",
+"percent":  20.21 
+},
+{
+ "name": "Proprietary",
+"percent":  13.83 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  20.21 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   9.57 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  34.04 
+} 
+] 
+},
+{
+ "name": "Iowa",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":      2 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":      2 
+},
+{
+ "name": "Government - Local",
+"percent":     12 
+},
+{
+ "name": "Government - State",
+"percent":      4 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":     22 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":     14 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":     44 
+} 
+] 
+},
+{
+ "name": "Kansas",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   6.06 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   3.03 
+},
+{
+ "name": "Government - Local",
+"percent":  18.18 
+},
+{
+ "name": "Proprietary",
+"percent":  21.21 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  18.18 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  12.12 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  21.21 
+} 
+] 
+},
+{
+ "name": "Kentucky",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   4.55 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   9.09 
+},
+{
+ "name": "Government - Local",
+"percent":   1.52 
+},
+{
+ "name": "Government - State",
+"percent":   1.52 
+},
+{
+ "name": "Proprietary",
+"percent":  15.15 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  15.15 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  16.67 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  36.36 
+} 
+] 
+},
+{
+ "name": "Louisiana",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   1.72 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":  20.69 
+},
+{
+ "name": "Government - Local",
+"percent":   1.72 
+},
+{
+ "name": "Government - State",
+"percent":   5.17 
+},
+{
+ "name": "Proprietary",
+"percent":  18.97 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  17.24 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  10.34 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  24.14 
+} 
+] 
+},
+{
+ "name": "Maine",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"percent":   4.17 
+},
+{
+ "name": "Government - Local",
+"percent":   4.17 
+},
+{
+ "name": "Proprietary",
+"percent":   4.17 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  20.83 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  10.42 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  56.25 
+} 
+] 
+},
+{
+ "name": "Maryland",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.38 
+},
+{
+ "name": "Proprietary",
+"percent":   4.76 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":   11.9 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  19.05 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":   61.9 
+} 
+] 
+},
+{
+ "name": "Massachusetts",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   4.48 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   1.49 
+},
+{
+ "name": "Government - Local",
+"percent":   4.48 
+},
+{
+ "name": "Proprietary",
+"percent":   20.9 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":   7.46 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  13.43 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  47.76 
+} 
+] 
+},
+{
+ "name": "Michigan",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   4.55 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   4.55 
+},
+{
+ "name": "Government - Local",
+"percent":   5.68 
+},
+{
+ "name": "Proprietary",
+"percent":   12.5 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  15.91 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  26.14 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  30.68 
+} 
+] 
+},
+{
+ "name": "Minnesota",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   1.79 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   1.79 
+},
+{
+ "name": "Government - Local",
+"percent":   5.36 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  28.57 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  10.71 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  51.79 
+} 
+] 
+},
+{
+ "name": "Mississippi",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.44 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   2.44 
+},
+{
+ "name": "Government - Local",
+"percent":  34.15 
+},
+{
+ "name": "Government - State",
+"percent":   2.44 
+},
+{
+ "name": "Proprietary",
+"percent":  29.27 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   9.76 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  19.51 
+} 
+] 
+},
+{
+ "name": "Missouri",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   5.06 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   6.33 
+},
+{
+ "name": "Government - Local",
+"percent":    3.8 
+},
+{
+ "name": "Government - State",
+"percent":   1.27 
+},
+{
+ "name": "Proprietary",
+"percent":  15.19 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  20.25 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  12.66 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  35.44 
+} 
+] 
+},
+{
+ "name": "Montana",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   9.09 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  27.27 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  63.64 
+} 
+] 
+},
+{
+ "name": "Nebraska",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   3.33 
+},
+{
+ "name": "Government - Local",
+"percent":   3.33 
+},
+{
+ "name": "Proprietary",
+"percent":     10 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  26.67 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  23.33 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  33.33 
+} 
+] 
+},
+{
+ "name": "Nevada",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   5.26 
+},
+{
+ "name": "Government - Local",
+"percent":   5.26 
+},
+{
+ "name": "Proprietary",
+"percent":  42.11 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  10.53 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   5.26 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  31.58 
+} 
+] 
+},
+{
+ "name": "New Hampshire",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"percent":    3.7 
+},
+{
+ "name": "Government - Local",
+"percent":    3.7 
+},
+{
+ "name": "Proprietary",
+"percent":  14.81 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  14.81 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  11.11 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  51.85 
+} 
+] 
+},
+{
+ "name": "New Jersey",
+"children": [
+ {
+ "name": "Government - Local",
+"percent":   1.43 
+},
+{
+ "name": "Government - State",
+"percent":   1.43 
+},
+{
+ "name": "Proprietary",
+"percent":   2.86 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  15.71 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   8.57 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":     70 
+} 
+] 
+},
+{
+ "name": "New Mexico",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   6.25 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   12.5 
+},
+{
+ "name": "Government - Local",
+"percent":   6.25 
+},
+{
+ "name": "Government - State",
+"percent":   6.25 
+},
+{
+ "name": "Proprietary",
+"percent":  31.25 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":   37.5 
+} 
+] 
+},
+{
+ "name": "New York",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.79 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   2.79 
+},
+{
+ "name": "Government - Local",
+"percent":   8.38 
+},
+{
+ "name": "Government - State",
+"percent":   2.23 
+},
+{
+ "name": "Proprietary",
+"percent":   3.91 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  17.88 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  11.17 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  50.84 
+} 
+] 
+},
+{
+ "name": "North Carolina",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.25 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":  20.22 
+},
+{
+ "name": "Government - Local",
+"percent":  13.48 
+},
+{
+ "name": "Government - State",
+"percent":   1.12 
+},
+{
+ "name": "Proprietary",
+"percent":   6.74 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  11.24 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  44.94 
+} 
+] 
+},
+{
+ "name": "North Dakota",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"percent":   5.26 
+},
+{
+ "name": "Government - Local",
+"percent":  10.53 
+},
+{
+ "name": "Proprietary",
+"percent":   5.26 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  36.84 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   5.26 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  36.84 
+} 
+] 
+},
+{
+ "name": "Ohio",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.55 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   4.46 
+},
+{
+ "name": "Government - Local",
+"percent":   3.82 
+},
+{
+ "name": "Government - State",
+"percent":   1.27 
+},
+{
+ "name": "Proprietary",
+"percent":  10.19 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  20.38 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  21.02 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  36.31 
+} 
+] 
+},
+{
+ "name": "Oklahoma",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   4.55 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":  11.36 
+},
+{
+ "name": "Government - Local",
+"percent":   2.27 
+},
+{
+ "name": "Proprietary",
+"percent":  29.55 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  13.64 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  20.45 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  18.18 
+} 
+] 
+},
+{
+ "name": "Oregon",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.44 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   7.32 
+},
+{
+ "name": "Government - Local",
+"percent":   2.44 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  39.02 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   12.2 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  36.59 
+} 
+] 
+},
+{
+ "name": "Pennsylvania",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   3.11 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   0.62 
+},
+{
+ "name": "Government - Local",
+"percent":   0.62 
+},
+{
+ "name": "Proprietary",
+"percent":   11.8 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  11.18 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  31.06 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  41.61 
+} 
+] 
+},
+{
+ "name": "Rhode Island",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   9.09 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  18.18 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  72.73 
+} 
+] 
+},
+{
+ "name": "South Carolina",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   4.76 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   9.52 
+},
+{
+ "name": "Government - Local",
+"percent":   9.52 
+},
+{
+ "name": "Government - State",
+"percent":   2.38 
+},
+{
+ "name": "Proprietary",
+"percent":  23.81 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":   2.38 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   7.14 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  40.48 
+} 
+] 
+},
+{
+ "name": "South Dakota",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   5.88 
+},
+{
+ "name": "Government - Local",
+"percent":   5.88 
+},
+{
+ "name": "Proprietary",
+"percent":   5.88 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  29.41 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   5.88 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  47.06 
+} 
+] 
+},
+{
+ "name": "Tennessee",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   3.57 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   8.33 
+},
+{
+ "name": "Government - Local",
+"percent":   8.33 
+},
+{
+ "name": "Government - State",
+"percent":   1.19 
+},
+{
+ "name": "Proprietary",
+"percent":  34.52 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":   11.9 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   11.9 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  20.24 
+} 
+] 
+},
+{
+ "name": "Texas",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   4.11 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":  14.16 
+},
+{
+ "name": "Government - Local",
+"percent":   2.28 
+},
+{
+ "name": "Government - State",
+"percent":   1.83 
+},
+{
+ "name": "Proprietary",
+"percent":  33.79 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  15.98 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   7.31 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  20.55 
+} 
+] 
+},
+{
+ "name": "Utah",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   5.56 
+},
+{
+ "name": "Government - State",
+"percent":   5.56 
+},
+{
+ "name": "Proprietary",
+"percent":     50 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   5.56 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  33.33 
+} 
+] 
+},
+{
+ "name": "Vermont",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":  16.67 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  33.33 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":     50 
+} 
+] 
+},
+{
+ "name": "Virginia",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   2.67 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":      4 
+},
+{
+ "name": "Government - Local",
+"percent":   1.33 
+},
+{
+ "name": "Government - State",
+"percent":   1.33 
+},
+{
+ "name": "Proprietary",
+"percent":  21.33 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":      8 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  26.67 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  34.67 
+} 
+] 
+},
+{
+ "name": "Washington",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   3.77 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":  11.32 
+},
+{
+ "name": "Government - Local",
+"percent":   3.77 
+},
+{
+ "name": "Government - State",
+"percent":   1.89 
+},
+{
+ "name": "Proprietary",
+"percent":   5.66 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  26.42 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   9.43 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  37.74 
+} 
+] 
+},
+{
+ "name": "West Virginia",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   7.32 
+},
+{
+ "name": "Government - Local",
+"percent":   7.32 
+},
+{
+ "name": "Proprietary",
+"percent":  19.51 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  14.63 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":   4.88 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  46.34 
+} 
+] 
+},
+{
+ "name": "Wisconsin",
+"children": [
+ {
+ "name": "Government - Federal",
+"percent":   3.28 
+},
+{
+ "name": "Government - Hospital District or Authority",
+"percent":   1.64 
+},
+{
+ "name": "Government - Local",
+"percent":   1.64 
+},
+{
+ "name": "Proprietary",
+"percent":   3.28 
+},
+{
+ "name": "Voluntary non-profit - Church",
+"percent":  22.95 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":    8.2 
+},
+{
+ "name": "Voluntary non-profit - Private",
+"percent":  59.02 
+} 
+] 
+},
+{
+ "name": "Wyoming",
+"children": [
+ {
+ "name": "Government - Hospital District or Authority",
+"percent":  33.33 
+},
+{
+ "name": "Voluntary non-profit - Other",
+"percent":  66.67 
+} 
+] 
+} 
+] 
+}
